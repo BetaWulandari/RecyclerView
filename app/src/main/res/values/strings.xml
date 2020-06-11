@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Recycler View</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string-array name="indonesia_foods">
+        <item>bika ambon</item>
+        <item>gudeg</item>
+        <item>jawada</item>
+        <item>karedok</item>
+        <item>kerak telor</item>
+        <item>mie aceh</item>
+        <item>rawon</item>
+        <item>rendang</item>
+        <item>sate pusut</item>
+        <item>tili aya</item>
+
+    </string-array>
+    <string-array name="description">
+        <item>yummy enak</item>
+        <item>yummy enak</item>
+        <item>yummy enak</item>
+        <item>enak enak</item>
+        <item>yummy enak</item>
+        <item>yummy enak</item>
+        <item>yummy enak</item>
+        <item>yummy enak</item>
+        <item>yummy enak</item>
+        <item>yummy enak</item>
+
+    </string-array>
+</resources>
